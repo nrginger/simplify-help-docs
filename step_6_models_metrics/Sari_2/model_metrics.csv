@@ -1,0 +1,5 @@
+model,sari,bleu,rouge1,rouge2,rougeL,flesch_reading
+llama_finetuned,47.99,38.17,0.0,0.0,0.0,108.2
+mistral_instruct,45.86,35.25,0.0,0.0,0.0,106.0
+qwen_finetuned,40.01,15.57,0.0,0.0,0.0,109.24
+deepseek-v3,39.64,15.89,0.0,0.0,0.0,111.45

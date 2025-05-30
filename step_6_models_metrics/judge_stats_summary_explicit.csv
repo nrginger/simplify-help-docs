@@ -1,0 +1,5 @@
+model,clarity,direct_address,bureaucratic_words,structure,brevity,overall
+deepseek-v3,4.99,2.95,4.98,4.83,4.99,22.740000000000002
+qwen_finetuned,4.15,3.58,4.18,4.36,3.88,20.15
+mistral_instruct,3.45,2.69,3.28,3.51,3.56,16.49
+llama_finetuned,3.1,2.53,3.31,2.93,3.23,15.1
